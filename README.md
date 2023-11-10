@@ -1,2 +1,2 @@
 # MedicineWarehouse
-## Project of programming languages in IT Third Year 
+Project of programming languages in IT Third Year 
